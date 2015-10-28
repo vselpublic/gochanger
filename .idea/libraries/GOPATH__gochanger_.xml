@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gochanger&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../goji/param/.git" />
+      <root url="file://$PROJECT_DIR$/../../vmihailenco/signer/.git" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-sqlite3/.git" />
+      <root url="file://$PROJECT_DIR$/../../warik/go-dialer/.git" />
+      <root url="file://$PROJECT_DIR$/../../jmoiron/sqlx/.git" />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom/hg/dialer/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom/hg/dialer/.hg" />
+      <root url="file://$PROJECT_DIR$/../../goamz/goamz/.git" />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom/hg/dialer.goodhgrc/.idea" />
+      <root url="file://$PROJECT_DIR$/../../goamz/goamz/cloudfront/testdata" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom/hg/dialerhg/.hg" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-sqlite3/_example" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../../../kyle.uaprom/hg/dialer.goodhgrc/.hg" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../vaughan0/go-ini/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../golang/glog/.git" />
+      <root url="file://$PROJECT_DIR$/../../warik/gami/.git" />
+      <root url="file://$PROJECT_DIR$/../../parnurzeal/gorequest/.git" />
+      <root url="file://$PROJECT_DIR$/../../zenazn/goji/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/testdata" />
+    </excluded>
+  </library>
+</component>
